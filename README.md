@@ -54,5 +54,11 @@ Vector Databases
 
 ---
 
+## 📊 Top Lang Contributions
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishuishra&layout=compact)
+
+---
+
 ## ⚡ Fun Fact
 I like building systems that scale… and cost less than they should.
