@@ -6,11 +6,7 @@
 
 ## 🧠 What I Do
 
-- Build **AI systems** using LLMs, RAG pipelines, and Agentic workflows  
-- Design **microservices & event-driven architectures** that scale  
-- Develop **high-performance APIs** and distributed systems  
-- Work on **semantic search, vector databases, and embeddings**  
-- Optimize systems for **performance, latency, and cost**
+I build AI-powered systems and scalable backends—designing microservices, orchestrating LLMs and agents, and making sure everything runs fast, reliably, and without blowing up the cloud bill.
 
 ---
 
@@ -43,7 +39,6 @@ Vector Databases
 
 - Agent AI systems & MCP patterns  
 - Scalable LLM orchestration  
-- Real-time event-driven AI pipelines  
 
 ---
 
