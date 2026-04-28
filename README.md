@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Vishu Mishra
 
-<!--
-**vishuishra/vishuishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Making distributed systems behave and LLMs pay rent.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Do
+
+- Build **AI systems** using LLMs, RAG pipelines, and Agentic workflows  
+- Design **microservices & event-driven architectures** that scale  
+- Develop **high-performance APIs** and distributed systems  
+- Work on **semantic search, vector databases, and embeddings**  
+- Optimize systems for **performance, latency, and cost**
+
+---
+
+## ⚙️ Tech Stack
+
+### 💻 Backend
+Python, FastAPI, Flask, Celery  
+
+### 🧩 Architecture
+Microservices, Event-Driven Systems, Distributed Systems  
+Kafka, RabbitMQ, Async Processing  
+
+### 🤖 AI & Search
+LLMs, RAG, Agentic AI Systems  
+Semantic Search, Vector Embeddings  
+Elasticsearch, Pinecone, ChromaDB  
+Prompt Engineering  
+
+### ☁️ Cloud & DevOps
+Microsoft Azure  
+Docker, Kubernetes, CI/CD  
+
+### 🗄️ Databases
+PostgreSQL, MySQL, Redis  
+Vector Databases  
+
+---
+
+## 🧱 Currently Exploring
+
+- Agent AI systems & MCP patterns  
+- Scalable LLM orchestration  
+- Real-time event-driven AI pipelines  
+
+---
+
+## 🤝 Connect
+
+📧 mishra.vishu99@gmail.com  
+💼 LinkedIn: www.linkedin.com/in/vishu-mishra
+
+---
+
+## ⚡ Fun Fact
+I like building systems that scale… and cost less than they should.
