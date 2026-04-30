@@ -45,7 +45,8 @@ Vector Databases
 ## 🤝 Connect
 
 📧 mishra.vishu99@gmail.com  
-💼 LinkedIn: www.linkedin.com/in/vishu-mishra
+💼 LinkedIn: www.linkedin.com/in/vishu-mishra<br>
+🌐 Portfolio: [vishumishra.vercel.app](https://vishumishra.vercel.app/)
 
 ---
 
